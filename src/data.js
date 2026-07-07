@@ -26,7 +26,7 @@ export const skills = [
   },
   {
     title: "Tools",
-    items: ["Git", "GitHub", "VS Code", "Jira", "cPanel"],
+    items: ["Git", "GitHub", "VS Code", "Jira", "cPanel" , "Zoho"],
   },
   {
     title: "Concepts",
