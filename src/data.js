@@ -70,6 +70,17 @@ export const experience = [
       "Assisted staff with system operations and software issues",
     ],
   },
+  {
+    title: " Computer Lab Assistant ",
+    company: "CUSAT Engineering College, Alappuzha",
+    dates: "June 2015 — Mar 2016",
+    points: [
+      "Assisted faculty in conducting Computer Science laboratory sessions for undergraduate students ",
+      "Installed, configured, and maintained computer systems, software applications, and lab equipment ",
+      "Provided technical support by troubleshooting hardware, software, and network-related issues ",
+      "Assisted students during practical sessions and maintained lab systems, software updates, and inventory records ",
+    ],
+  },
 ];
 
 export const projects = [

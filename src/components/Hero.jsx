@@ -14,13 +14,19 @@ export default function Hero() {
             </h1>
             <p className="role">{profile.role}</p>
             <p className="pitch">
-              5+ years turning government IT support instincts — patience, precision, and a
-              habit of chasing down root causes — into responsive web applications, REST API
-              integrations, and dashboards people actually enjoy using.
+              5+ years of full stack development experience — building
+              responsive web applications, integrating REST APIs, and managing
+              databases — backed by a foundation in government IT support that
+              shaped how I debug, document, and think about the people using
+              what I build.
             </p>
             <div className="cta-row">
-              <a className="btn btn-primary" href="#projects">View Projects</a>
-              <a className="btn btn-ghost" href="#contact">Get in Touch</a>
+              <a className="btn btn-primary" href="#projects">
+                View Projects
+              </a>
+              <a className="btn btn-ghost" href="#contact">
+                Get in Touch
+              </a>
             </div>
             <div className="stat-row">
               {stats.map((s) => (
