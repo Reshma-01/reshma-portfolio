@@ -11,7 +11,7 @@ export const profile = {
 export const stats = [
   { value: "5+", label: "Years experience" },
   { value: "5", label: "Featured projects" },
-  { value: "3", label: "Companies" },
+  { value: "4", label: "Companies" },
   { value: "2", label: "Certifications" },
 ];
 
